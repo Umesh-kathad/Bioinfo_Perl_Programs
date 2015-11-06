@@ -6,7 +6,7 @@ perl nucleotideStatisticsFromFasta.pl -infile influenza.fasta -outfile influenza
 Note - In order to use the file, please unzip the influenza.fasta file
 
 It takes two arguments from command line
--infile influenza.fasta (having fasta sequences)  
+-infile influenza.fasta (having fasta sequences)
 -outfile influenza.stats.txt (will have the statistics data on FASTA sequences)
 
 ## Output
