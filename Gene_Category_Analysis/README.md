@@ -17,6 +17,7 @@ It takes two arguments from command line
 -file2 chr21_genes_categories.txt (having the category & description)
 
 ## Output
-in categories.txt you will find 
+in categories.txt you will find
+
 Category, Occurance and Description of each category in ascending order (of occurance).
 
