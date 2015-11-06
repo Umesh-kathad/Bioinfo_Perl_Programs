@@ -8,6 +8,8 @@ It takes 1 argument from command line
 
 -infile ss.txt (having the sequence data and secondary structure data)
 
+## Output
+
 this program will generate 2 files
 
 a) pdbProtein.fasta (having all protein sequence with header)
