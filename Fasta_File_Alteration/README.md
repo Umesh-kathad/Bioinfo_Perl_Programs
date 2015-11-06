@@ -1,1 +1,6 @@
-# Fasta_File_Alteration
+# pdbFastaSplitter.pl
+
+~~~
+perl pdbFastaSplitter.pl -infile ss.txt
+~~~
+
