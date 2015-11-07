@@ -3,7 +3,7 @@
 perl nucleotideStatisticsFromFasta.pl -infile influenza.fasta -outfile influenza.stats.txt
 ~~~
 
-Note - In order to use the file, please unzip the influenza.fasta file
+Note - In order to use the file, please unzip the influenza.fasta.gz file
 
 It takes two arguments from command line
 
