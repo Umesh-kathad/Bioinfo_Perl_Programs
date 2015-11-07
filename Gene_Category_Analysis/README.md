@@ -9,7 +9,7 @@ as an example with the provided files.
 perl categories.pl -file1 chr21_genes.txt -file2 chr21_genes_categories.txt
 ~~~
 
-## Documentation :-
+## Description
 It counts the occurance of each category in file1 and print it into a file named "categories.txt" with the category, occurance & defination ( takes defination from the file2 ). form file1 it split data and take the gene symbol as a key and category as a value and store in a hash. from file2, it take the categoty as a key and description as a value and store into another hash. find occurance of each category for every gene symbol and print the category, occurance & defination into output file in ascending order.
 
 It takes two arguments from command line
