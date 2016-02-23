@@ -75,7 +75,7 @@ while (my $seq = <FILE>) {
 }
 
 ####################################################################################
-# 					To filter out based on below criteria
+# 			To filter out based on below criteria
 ####################################################################################
 #
 # 1) Targets that are not between 20%-80% GC content
@@ -110,7 +110,7 @@ foreach my $line (keys %seqHash) {
 }
 
 ####################################################################################
-# 								To calculate score
+# 				To calculate score
 ####################################################################################
 # I have calculated the score out of 300 (100 per criteria)
 # 
